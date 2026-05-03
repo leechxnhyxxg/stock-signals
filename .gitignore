@@ -1,0 +1,9 @@
+stocks.db
+__pycache__/
+*.pyc
+*.pyo
+.env
+/data/
+nohup.out
+start-server.sh
+run.sh
